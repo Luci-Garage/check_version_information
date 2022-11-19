@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Luci first test. Thanks for Quasar."}
+{"version":"2.1.6", "notes":"IMPORTANT, NEW DISCORD COMUNITY FOR QUASAR: https://discord.gg/y4USnBMyWr !!! Mini-patch and solved general errors"}
